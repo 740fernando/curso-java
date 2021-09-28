@@ -1,4 +1,4 @@
 
 ## Curso Java
 
-**Olá! Bem vindo, essas são minhas anotações sobre meus estudo JAVA;**
+**Olá! Bem vindo, essas são minhas anotações de estudos sobre a linguagem JAVA;**
